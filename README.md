@@ -1,5 +1,6 @@
 ## Welcom to the ToDo App
-Title: To-Do App
+Title: To-Do App.
+
 The Todo App is a simple task management application that helps you stay organized and focused by allowing you to manage your tasks efficiently.
 
 ## GitHub: 
