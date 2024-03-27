@@ -5,7 +5,8 @@ The Todo App is a simple task management application that helps you stay organiz
 ## GitHub: 
 Clone the repository:https://github.com/va-ishnavi/TodoApp
 
-## Demo Link: https://vaishnavi-todo.netlify.app
+## Demo Link: 
+https://vaishnavi-todo.netlify.app
 
 ### `npm start`
 Runs the app in the development mode.
