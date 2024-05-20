@@ -25,5 +25,6 @@ Your app is ready to be deployed!
 ##Contact
 If you have any questions or suggestions regarding the Todo App, please feel free to contact us at your
 https://www.linkedin.com/in/vaishnavi-gupta-09-june/
-
+## Author:
+GitHub: https://github.com/va-ishnavi
 
