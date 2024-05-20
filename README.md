@@ -22,7 +22,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
-##Contact
+
+## Contact
 If you have any questions or suggestions regarding the Todo App, please feel free to contact us at your
 https://www.linkedin.com/in/vaishnavi-gupta-09-june/
 ## Author:
